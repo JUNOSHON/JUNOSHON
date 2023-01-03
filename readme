@@ -1,6 +1,9 @@
 ```javascript
   const JUNO = {
-    name : 'JUNO SHON',
+    name  :  'JUNO SHON',
+    age   :  '24',
+    field :  'FrontEnd',
+    Tech  :  ['React','CSS','Nodejs']
     
   }
   
