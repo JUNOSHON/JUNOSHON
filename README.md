@@ -6,7 +6,6 @@
     Tech  :  ['React','CSS','Nodejs']
     
   }
-  
 ```
 
 <!--
