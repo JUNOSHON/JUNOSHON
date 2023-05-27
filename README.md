@@ -5,7 +5,7 @@
 
 <br>
 
-<p><img width="572" alt="image" src="https://github.com/JUNOSHON/TIL/assets/67476544/e6f39d9a-d43d-439a-b30e-7a00e35edbdf" style="margin-left:210px; border-radius:15px;"/></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="572" alt="image" src="https://github.com/JUNOSHON/TIL/assets/67476544/e6f39d9a-d43d-439a-b30e-7a00e35edbdf" /></p>
 
 - 🌱 React와 ReactNative 로 Front-End를 공부하고 있습니다.
 
