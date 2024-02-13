@@ -4,23 +4,26 @@
 
 
 ```json
- {
+{
   "name": "JUNHO SHON",
-  
   "tech": {
-    "language": ["HTML5", "CSS3", "Javascript", "Typesciript"],
-
+    "language": ["HTML5", "CSS3", "JavaScript", "TypeScript"],
     "front-end": {
-      "React" : {
+      "React": {
         "state": ["Context", "Recoil", "React-Query"],
-        "style": ["PostCSS", "TailwindCSS", "Styled-components"], 
       },
+      "Vue": {
+        "state": ["Vuex"],
+      },
+      "CSS": {
+        "libraries": ["PostCSS", "Styled-components","Panda CSS","Tailwind"],
+      },
+    },
 
-    "etc": ["express", "Firebase", "AWS"],
-     
+    "etc": ["Express", "Firebase", "AWS"]
   },
 
- "VCS": "github","gitlab",
-
+  "VCS": ["github", "gitlab"]
 }
+
 ```
