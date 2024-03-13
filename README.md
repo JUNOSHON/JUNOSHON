@@ -13,7 +13,7 @@
         "state": ["Context", "Recoil", "React-Query"],
       },
       "Vue": {
-        "state": ["Vuex"],
+        "state": ["Pinia"],
       },
       "CSS": {
         "libraries": ["PostCSS", "Styled-components","Panda CSS","Tailwind"],
